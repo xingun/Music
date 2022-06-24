@@ -26,7 +26,7 @@ const app = {
             name: 'Dịu Dàng Em Đến Remix',
             singer: 'Erik',
             path: './assets/songs/Dịu Dàng Em Đến  ERIKCukak Remix.mp3',
-            image: './assets/img/diudangngayemden.jpg'
+            image: './assets/img/wedding.jpg'
         },
         {
             name: 'I Love You So',
