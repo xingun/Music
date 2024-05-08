@@ -15,7 +15,7 @@ const data = [
      song: 'Bỏ Em Vào Balo',
      singer: 'Tân Trần',
      avatar: './images/1.jpg',
-     mp3: './music/y2mate.com - Bỏ Em Vào Balo Ming Guang Remix  Tân Trần  Nhạc Remix Tik Tok 2021.mp3 '
+     mp3: './music/y2mate.com - Bỏ Em Vào Balo  GUANG Remix  Tân Trần  Nhạc Remix Tik Tok 2021.mp3  '
     },
     {
      song: 'Chạy Khỏi Thế Giới Này',
