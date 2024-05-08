@@ -51,7 +51,7 @@ const data = [
      song: 'Cứ Nói Yêu Lần Này',
      singer: 'Lil Zpoet',
      avatar: './images/1.jpg',
-     mp3: './music/y2mate.com - Cứ Nói Yêu Lần Này Speed Up  Lil ZpoetCukak Remix Audio Lyrics Video.mp3  '
+     mp3: './music/y2mate.com - Cứ Nói Yêu Lần Này  Lil ZpoetCukak Remix Audio Lyrics Video.mp3  '
     },
     {
      song: 'Dịu Dàng Em Đến',
