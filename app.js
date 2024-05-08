@@ -39,7 +39,7 @@ const data = [
      song: 'Cổ Tích',
      singer: 'JSOL',
      avatar: './images/1.jpg',
-     mp3: './music/y2mate.com - Cô Tich  JSOLCukak Remix Audio Lyrics Video.mp3 '
+     mp3: './music/y2mate.com - Cổ Tích  JSOL Cukak Remix.mp3 '
     },
     {
      song: 'Cưới Thôi',
