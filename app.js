@@ -87,7 +87,7 @@ const data = [
      song: 'Honey',
      singer: 'AnhVu ft Toann',
      avatar: './images/1.jpg',
-     mp3: './music/y2mate.com - Honẻy  AnhVu ft ToannRemix Version by 1 9 6 7 Audio Lyrics.mp3  '
+     mp3: './music/y2mate.com - Honey  AnhVu x ToannRemix Version by 1 9 6 7 Audio Lyrics.mp3  '
     },
     {
      song: 'Anh Yêu Em Rồi Đấy',
