@@ -27,7 +27,7 @@ const data = [
      song: 'Cẩm Tú Cầu',
      singer: 'RAYO x Huỳnh Văn',
      avatar: './images/1.jpg',
-     mp3: './music/y2mate.com - Có Em Bên Đời RIN Music Remix  Hồ Văn Quý x NamDuc  Giờ Thì Mình Lại Ước Ao Có Em Bên Đời Remix.mp3'
+     mp3: './music/y2mate.com - CẨM TÚ CẦU  RAYO x HUỲNH VĂN KIỀU CHI COVER.mp3 '
     },
     {
      song: 'Công Chúa Bong Bóng',
