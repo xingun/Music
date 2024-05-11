@@ -144,9 +144,9 @@ const data = [
      mp3: './music/y2mate.com - NGÀY MAI NGƯỜI TA LẤY CHỒNG  LINH HƯƠNG LUZ COVER  THÀNH ĐẠT  Ngày Hôm Ấy Em Đi Trong Mưa Thế.mp3 '
     },{
      song: 'Đợi Đến Tháng 13',
-     singer: 'Vũ Thịnh & Panny xViAm',
+     singer: 'Vũ Thịnh & Panny x ViAm',
      avatar: './images/1.jpg',
-     mp3: './music/ĐỢI ĐẾN THÁNG 13 - VŨ THỊNH & PANNY x ViAM  '
+     mp3: './music/y2mate.com - ĐỢI ĐẾN THÁNG 13  VŨ THỊNH  PANNY x ViAM Nhạc Hoa Lời Việt  SONG CA VERSION.mp3 '
     }, 
     {
      song: 'Nụ Cười Em Là Nắng',
