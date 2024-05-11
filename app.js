@@ -90,10 +90,10 @@ const data = [
      mp3: './music/y2mate.com - Honey  AnhVu x ToannRemix Version by 1 9 6 7 Audio Lyrics.mp3  '
     },
     {
-     song: 'Anh Yêu Em Rồi Đấy',
-     singer: 'HuyR ft Dickator',
+     song: 'Ngả Ngả Nghiêng',
+     singer: 'Trung I.U',
      avatar: './images/1.jpg',
-     mp3: './music/y2mate.com - HuyR ft Dickator  Anh Yêu Em Rồi Đấy  Bomman  Minh Nghis Wedding Official MV.mp3 '
+     mp3: './music/y2mate.com - Trungg IU  NGẢ NGẢ NGHIÊNG Remix Version  Official Lyric Video.mp3 '
     },
     {
      song: 'Hơn Cả Mây Trời',
