@@ -143,10 +143,10 @@ const data = [
      avatar: './images/1.jpg',
      mp3: './music/y2mate.com - NGÀY MAI NGƯỜI TA LẤY CHỒNG  LINH HƯƠNG LUZ COVER  THÀNH ĐẠT  Ngày Hôm Ấy Em Đi Trong Mưa Thế.mp3 '
     },{
-     song: 'Nắm Bàn Tay Say Cả Đời',
-     singer: 'Đạt Trần x Nâu Ft ELBI',
+     song: 'Đợi Đến Tháng 13',
+     singer: 'Vũ Thịnh & Panny xViAm',
      avatar: './images/1.jpg',
-     mp3: './music/y2mate.com - Năm Ban Tay Say Ca Đơi  Đat Trân ft NâuCukak Remix  Audio Lyrics.mp3  '
+     mp3: './music/ĐỢI ĐẾN THÁNG 13 - VŨ THỊNH & PANNY x ViAM  '
     }, 
     {
      song: 'Nụ Cười Em Là Nắng',
