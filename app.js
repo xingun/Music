@@ -96,10 +96,10 @@ const data = [
      mp3: './music/y2mate.com - Trungg IU  NGẢ NGẢ NGHIÊNG Remix Version  Official Lyric Video.mp3 '
     },
     {
-     song: 'Hơn Cả Mây Trời',
-     singer: 'Như Việt',
+     song: 'Hai Đứa Nhóc',
+     singer: 'Ronboogz',
      avatar: './images/1.jpg',
-     mp3: './music/y2mate.com - HƠN CẢ MÂY TRỜI  Như Việt x Ciray Remix  Nhiều Hơn Cả Mây Trời Cả Cuộc Đời Không Ai Bằng Anh Đâu.mp3 '
+     mp3: './music/y2mate.com - Hai Đứa Nhóc  Ronboogz Lyrics Video.mp3 '
     },
     {
      song: 'Iu Em Thật Low',
