@@ -1,9 +1,9 @@
 const data = [
     {
-     song: 'lời đường mật',
-     singer: 'lyly ft hiếu thứ hai',
+     song: 'Bật Đèn Xanh',
+     singer: 'Vân Anh Pinky',
      avatar: './images/1.jpg',
-     mp3: './music/y2mate.com - LỜI ĐƯỜNG MẬT LYLY ft HIEUTHUHAI Remix.mp3'
+     mp3: './music/y2mate.com - BẬT ĐÈN XANH AM REMIX  TẠI VÌ SAO EM VỪA XINH GIAO DIỆN CŨNG KHÁ DỄ NHÌN REMIX.mp3 '
     },
     {
      song: 'Anh Sẽ Đón Em',
