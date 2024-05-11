@@ -138,10 +138,10 @@ const data = [
      mp3: './music/y2mate.com - Ngày Em Đến Orinn Remix  Lil Z Poet  Nhạc Trẻ Remix Hot Tik Tok Gây Nghiện 2022.mp3  '
     },
     {
-     song: 'Ngày Đầu Tiên',
-     singer: 'Đức Phúc',
+     song: 'Ngày Mai Người Ta Lấy Chồng',
+     singer: 'Thành Đạt',
      avatar: './images/1.jpg',
-     mp3: './music/y2mate.com - Ngày Đầu Tiên  Đức Phúc x AnhVuRemix Version by 1 9 6 7 Audio Lyrics.mp3  '
+     mp3: './music/y2mate.com - NGÀY MAI NGƯỜI TA LẤY CHỒNG  LINH HƯƠNG LUZ COVER  THÀNH ĐẠT  Ngày Hôm Ấy Em Đi Trong Mưa Thế.mp3 '
     },{
      song: 'Nắm Bàn Tay Say Cả Đời',
      singer: 'Đạt Trần x Nâu Ft ELBI',
